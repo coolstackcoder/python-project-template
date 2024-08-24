@@ -1,0 +1,145 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.egg-info/
+.installed.cfg
+*.egg-info/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code configuration files
+.vscode/
+
+# MacOS
+.DS_Store
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Testing
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+*.db
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pylint
+.pylint.d/
+
+# Bandit security tests
+.bandit/
+
+# Sphinx documentation
+docs/_build/
+
+# Pyre type checker
+.pyre/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+
+# Distribution / packaging
+.Python
+*.manifest
+*.spec
+*.lock
+*.log
+
+# Docker files
+*.dockerignore
+Dockerfile
+
+# Editor directories and files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.sublime-session
+.idea/
+
+# Environment variables file
+.env
+
+# System files
+*.swp
+*.swo
+*~
+*.bak
+
+# WSL2
+*.bak
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.profile
+
+# Node.js / npm
+node_modules/
+
+# Python egg files
+*.egg-info/
+
+# Log files
+*.log
+
+# Coverage reports
+.coverage
+
+# Python virtual environments
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyd
