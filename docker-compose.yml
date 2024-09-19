@@ -9,7 +9,7 @@ services:
     ports:
       - "5678:5678"  # Expose the debug port
     volumes:
-      - /home/snoopy/projects/samplepy:/app  # Map WSL2 directory to container directory
+      - .:/app  # Map WSL2 directory to container directory
     environment:
       - DEBUG=True
     command: ["python", "app/main.py"]
